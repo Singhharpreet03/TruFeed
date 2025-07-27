@@ -4,6 +4,7 @@ Google Agentic AI Day 2025
 TruFeed is a real-time civic incident feed platform that transforms scattered citizen reports and social media posts into structured, actionable events. Using AI for analysis, clustering, and verification, it helps communities stay informed about critical issues such as roadblocks, accidents, and infrastructure outages wuth a focus on three categories - Criminal events, Accidents/incidents and Natural Disasters.
 
 ---
+![Architecture Overview](https://github.com/user-attachments/assets/65adb182-d012-4b82-8206-486bc90d908f)
 
 ## Features
 
