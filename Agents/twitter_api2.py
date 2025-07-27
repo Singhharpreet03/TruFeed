@@ -84,10 +84,10 @@ def fetch_latest_tweets(consumer_key, consumer_secret,
 # Same driver code as before
 # ------------------------------------------------------------------
 if __name__ == "__main__":
-    CONSUMER_KEY        = "SAs4myIEMB4kzqZV7AmhjenAD"
-    CONSUMER_SECRET     = "WbXQlCYR8Mv6PWYJDCyAD1nUkOu54zH0llslFPA4GpPz8oKBiE"
-    ACCESS_TOKEN        = "1946848951317221376-mJV1sm0NisbiSBhU861dxNf0DvNE2y"
-    ACCESS_TOKEN_SECRET = "8pbvuucdZwwgAQtdnX7j0vOz8Ujbt8UW9FjNlTEQmtd1n"
+    CONSUMER_KEY        = "<consumer_key>"
+    CONSUMER_SECRET     = "<consumer_secret>"
+    ACCESS_TOKEN        = "<access_token>"
+    ACCESS_TOKEN_SECRET = "<access_tokey_secret>"
 
     fetch_latest_tweets(CONSUMER_KEY, CONSUMER_SECRET,
                         ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
