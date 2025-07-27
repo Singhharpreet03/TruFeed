@@ -81,9 +81,9 @@ def call_instagram_graph_api(url: str,
 # ------------------------------------------------------------------
 if __name__ == "__main__":
     test_url     = "https://graph.facebook.com/17843724880027643/recent_media?"
-    test_uid     = "17841475769132867"
+    test_uid     = "<user-id>"
     test_fields  = "caption,id,media_type,media_url"
-    test_token   = "EAAkJHJjlZCh0BPFKeDksWKV3Suuexz1qNZBZChAZAPpWfZCwvZCZCWi1F4ptSwKIHEjScY7wUqjD9CiP3UFypeC2t302VxLeJ0iUEmwwswzVfsZB0QcnItLDUG3qhhCJtSJ3zZAVipZAX2qrukudmbZAcwSpyaB1xHjfpFyLBvb2UZAmMq3Bv4djHleLHoSQ32qJQd08D8e019KWl6vp2tTH3bKrnw7SeJAPjwiI2HEZD"
+    test_token   = "<access-key>"
 
     try:
         result = call_instagram_graph_api(
